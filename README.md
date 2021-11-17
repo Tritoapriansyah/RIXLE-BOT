@@ -32,11 +32,11 @@ Lu gausah asal claim sc ini, ganti nama/up di yt atas nama lu, sama aja lu ga ng
 ## REST API
 **[`Riz Api`](https://rizapi.herokuapp.com/)**
 
-## HAPUS DULU SESINYA 😅 [`session.json`](https://github.com/Rizxyu/RIXLE-BOT/blob/main/src/session/qrcode-terminal.json)
+## HAPUS DULU SESINYA 😅 [`session.json`](https://github.com/Tritoapriansyah/RIXLE-BOT/blob/main/src/session/qrcode-terminal.json)
 
 ## ✍️ Editing the file
 
-Edit the required value in [`config.js`](https://github.com/Rizxyu/RIXLE-BOT/blob/main/config.js)
+Edit the required value in [`config.js`](https://github.com/Tritoapriansyah/RIXLE-BOT/blob/main/config.js)
 
 Create a new account at [`monggodb`](https://www.mongodb.com/cloud/atlas/register)
 
