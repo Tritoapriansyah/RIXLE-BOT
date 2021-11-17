@@ -21,4 +21,4 @@ ENV PM2_SECRET_KEY p0d57w4v1swtkx5
 COPY . .
 EXPOSE 5000
 
-CMD ["pm2-runtime", "index.js"]`
+CMD ["npm", "start"]`
