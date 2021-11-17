@@ -17,6 +17,9 @@
   "bugs": {
     "url": "https://github.com/Rizxyu/RIXLE-BOT/issues"
   },
+    "scripts": {
+    "start": "node main",
+  },
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "awesome-phonenumber": "^2.64.0",
